@@ -371,12 +371,6 @@ select:disabled {
   display: none;
 }
 
-br {
-  display: block;
-  margin: 100px 10;
-}
-
-
 button,
 [type=button],
 [type=reset],
